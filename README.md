@@ -8,7 +8,8 @@ For run the application execute Main.java inside package main. and Set The Value
  For example change value for 
  
  command.addElement("1 2 N");
- ommand.addElement("LMLMLMLMM");
+ 
+ command.addElement("LMLMLMLMM");
  
  The first element represent the position
  The second element represent the moves of rovers inside planet.
